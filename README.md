@@ -1,4 +1,8 @@
 # FNP-Sales-Analysis-Excel
+
+## Dashboard Preview
+![Dashboard](Screenshots/Dashboard.png)
+
 An end-to-end Sales Analytics project built in Microsoft Excel using Power Query and Power Pivot.
 
 ## Technologies
