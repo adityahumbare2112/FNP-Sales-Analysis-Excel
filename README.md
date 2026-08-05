@@ -1,4 +1,5 @@
 # FNP-Sales-Analysis-Excel
+An end-to-end Sales Analytics project built in Microsoft Excel using Power Query and Power Pivot.
 
 ## Dashboard Preview
 ![Dashboard](Screenshots/Dashboard.png)
@@ -14,7 +15,6 @@
 | Data Model | Power Pivot |
 | Visualizations | Pivot Charts, Pivot Tables, Slicers |
 | KPIs | Revenue, Top Products, Top Cities, Monthly Sales, Average Delivery Time |
-An end-to-end Sales Analytics project built in Microsoft Excel using Power Query and Power Pivot.
 
 ## Technologies
 - Microsoft Excel
