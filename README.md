@@ -3,6 +3,17 @@
 ## Dashboard Preview
 ![Dashboard](Screenshots/Dashboard.png)
 
+## Project Details
+
+| Feature | Details |
+|---------|----------|
+| Tool | Microsoft Excel |
+| Data Sources | Customers, Orders, Products |
+| Dashboard Type | Interactive Sales Dashboard |
+| ETL | Power Query |
+| Data Model | Power Pivot |
+| Visualizations | Pivot Charts, Pivot Tables, Slicers |
+| KPIs | Revenue, Top Products, Top Cities, Monthly Sales, Average Delivery Time |
 An end-to-end Sales Analytics project built in Microsoft Excel using Power Query and Power Pivot.
 
 ## Technologies
