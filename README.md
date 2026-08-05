@@ -1,6 +1,6 @@
 # 📊 FNP Sales Analysis Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## 📌 Project Overview
 
