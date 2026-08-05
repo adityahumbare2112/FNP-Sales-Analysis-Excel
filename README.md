@@ -1,40 +1,27 @@
-# FNP-Sales-Analysis-Excel
-An end-to-end Sales Analytics project built in Microsoft Excel using Power Query and Power Pivot.
+# 📊 FNP Sales Analysis Dashboard
 
-## Dashboard Preview
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
-## Project Details
+## 📌 Project Overview
 
-| Feature | Details |
-|---------|----------|
-| Tool | Microsoft Excel |
-| Data Sources | Customers, Orders, Products |
-| Dashboard Type | Interactive Sales Dashboard |
-| ETL | Power Query |
-| Data Model | Power Pivot |
-| Visualizations | Pivot Charts, Pivot Tables, Slicers |
-| KPIs | Revenue, Top Products, Top Cities, Monthly Sales, Average Delivery Time |
+This project presents an interactive Sales Analytics Dashboard developed in Microsoft Excel using Power Query and Power Pivot. The dashboard analyzes sales performance, customer purchasing patterns, product trends, and delivery metrics to support business decision-making.
 
-## Business Insights
+---
 
-- Analysed customer purchasing behaviour using interactive dashboards.
-- Identified Top 5 products contributing maximum revenue.
-- Analysed monthly sales trends.
-- Compared sales across different cities.
-- Measured average delivery time using calculated metrics.
+## 🎯 Business Problem
 
-## Skills Demonstrated
+Ferns and Petals (FNP) wanted to understand:
 
-- Data Cleaning
-- ETL using Power Query
-- Data Modeling
-- Power Pivot
-- Dashboard Development
-- Business Analysis
-- Interactive Reporting
+- Which occasions generate maximum revenue?
+- Which products contribute most to sales?
+- Which cities generate maximum revenue?
+- Monthly sales trends
+- Average delivery time
 
-## Technologies
+---
+
+## 🛠️ Tools Used
+
 - Microsoft Excel
 - Power Query
 - Power Pivot
@@ -42,22 +29,57 @@ An end-to-end Sales Analytics project built in Microsoft Excel using Power Query
 - Pivot Charts
 - Data Modeling
 
-## Dashboard KPIs
+---
+
+## 📂 Dataset
+
+The project uses three datasets:
+
+- customers.csv
+- orders.csv
+- products.csv
+
+---
+
+## 📈 Dashboard KPIs
+
 - Total Revenue
 - Revenue by Occasion
-- Monthly Sales Trend
+- Monthly Revenue
 - Top 5 Products
 - Top 10 Cities
 - Average Delivery Time
 
-## Dataset
-- Customers
-- Orders
-- Products
+---
 
-## Skills Demonstrated
-- ETL using Power Query
-- Data Cleaning
-- Data Modeling
-- Business Reporting
-- Dashboard Design
+## 💡 Business Insights
+
+- Identified top-performing occasions based on revenue.
+- Analysed monthly sales trends.
+- Compared city-wise sales performance.
+- Evaluated average delivery timelines.
+- Identified best-selling products.
+
+---
+
+## 📁 Repository Structure
+
+FNP_Sales_Analysis_Dashboard.xlsx
+
+Dashboard.png
+
+customers.csv
+
+orders.csv
+
+products.csv
+
+README.md
+
+---
+
+## 👨‍💻 Author
+
+Aditya Kishor Humbare
+
+LinkedIn:
