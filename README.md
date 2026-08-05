@@ -16,6 +16,24 @@ An end-to-end Sales Analytics project built in Microsoft Excel using Power Query
 | Visualizations | Pivot Charts, Pivot Tables, Slicers |
 | KPIs | Revenue, Top Products, Top Cities, Monthly Sales, Average Delivery Time |
 
+## Business Insights
+
+- Analysed customer purchasing behaviour using interactive dashboards.
+- Identified Top 5 products contributing maximum revenue.
+- Analysed monthly sales trends.
+- Compared sales across different cities.
+- Measured average delivery time using calculated metrics.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- ETL using Power Query
+- Data Modeling
+- Power Pivot
+- Dashboard Development
+- Business Analysis
+- Interactive Reporting
+
 ## Technologies
 - Microsoft Excel
 - Power Query
