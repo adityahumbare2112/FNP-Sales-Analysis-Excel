@@ -82,4 +82,4 @@ README.md
 
 Aditya Kishor Humbare
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/aditya-humbare
